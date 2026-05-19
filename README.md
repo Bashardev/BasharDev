@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Bashar Ahmed 👋
 
-<!--
-**Bashardev/BasharDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and software developer interested in full-stack development, Java, Spring Boot, ASP.NET Core, Flutter, and AI-powered applications.
 
-Here are some ideas to get you started:
+## Skills
+- Java, Spring Boot, Thymeleaf
+- C#, ASP.NET Core Web API
+- Flutter, Dart
+- React, JavaScript, Vite
+- SQL Server, H2 Database, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Team Scoring Table: Spring Boot web app for managing sports team standings.
+- Volunteer Web Platform: Full-stack volunteering platform using ASP.NET Core and React.
+- Flutter Project: Mobile application built with Flutter.
+
+## Contact
+- GitHub: @Bashardev
+- Email: Bashar.almuqaimi@gmail.com
+- Ph:94395554
