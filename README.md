@@ -1,7 +1,6 @@
 # Hi, I'm Bashar Ahmed 👋
 
-I'm a  software developer interested in full-stack development, Java, Spring Boot, ASP.NET Core, Flutter, and AI-powered applications.
-
+I'm a  software developer interested in full-stack development, Java, Spring Boot, ASP.NET Core, Flutter
 ## Skills
 - Java, Spring Boot, Thymeleaf
 - C#, ASP.NET Core Web API
